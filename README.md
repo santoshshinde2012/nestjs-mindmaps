@@ -73,6 +73,19 @@ Nest (NestJS) is a framework for building efficient, scalable Node.js server-sid
 #### Core
 
 - Controllers
+  - Routing
+  - Request object
+  - Response Object
+  - Resources
+  - Route wildcards
+  - Status code
+  - Headers
+  - Redirection
+  - Route parameters
+  - Sub-Domain Routing
+  - Asynchronicity
+  - Request payloads
+  - Handling errors
 - Providers
 - Modules
 - Middelware
