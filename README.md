@@ -110,3 +110,5 @@ Nest (NestJS) is a framework for building efficient, scalable Node.js server-sid
 #### References
 
 1. [NestJS Roadmap for Beginners](https://blog.santoshshinde.com/nestjs-roadmap-for-beginners-4fee5be251b)
+2. [NestJS Roadmap](
+https://whimsical.com/nestjs-roadmap-ULJDxUceE9WbfYQ3ckPmwm)
